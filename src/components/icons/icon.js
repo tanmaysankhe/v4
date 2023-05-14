@@ -16,6 +16,7 @@ import {
   IconStar,
   IconTwitter,
 } from '@components/icons';
+import IconGoogleScholar from './scholar';
 
 const Icon = ({ name }) => {
   switch (name) {
@@ -45,6 +46,8 @@ const Icon = ({ name }) => {
       return <IconPlayStore />;
     case 'Star':
       return <IconStar />;
+    case 'Google Scholar':
+      return <IconGoogleScholar />;
     case 'Twitter':
       return <IconTwitter />;
     default:
