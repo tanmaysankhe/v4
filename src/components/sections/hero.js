@@ -62,7 +62,7 @@ const Hero = () => {
 
   const one = <h1>Hey there, my name is</h1>;
   const two = <h2 className="big-heading">Tanmay Sankhe.</h2>;
-  const three = <h3 className="big-heading">I can google better than an average bear. :) </h3>;
+  const three = <h3 className="big-heading">Currently based in Texas, US. </h3>;
   const four = (
     <>
       <p>
@@ -96,7 +96,7 @@ const Hero = () => {
           {isMounted &&
             items.map((item, i) => (
               <CSSTransition key={i} classNames="fadeup" timeout={loaderDelay}>
-                <div style={{ transitionDelay: `${i + 1}00ms` }}>{item}</div>
+                <div style={{ transitionDelay: `${i + 1}0ms` }}>{item}</div>
               </CSSTransition>
             ))}
         </TransitionGroup>
