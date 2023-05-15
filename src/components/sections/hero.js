@@ -66,13 +66,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a software engineer with keen interst in Computer Vision. I recently graduated from the{' '}
+        <a href="http://uta.edu" target="_blank" rel="noreferrer">
+          University of Texas at Arlington
+        </a>{' '}
+        with a Masters in Computer Science.
       </p>
     </>
   );
