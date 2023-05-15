@@ -1,5 +1,5 @@
 ---
-date: '2023-01-01'
+date: '2022-10-10'
 title: 'CaeliScribo (AirNote)'
 cover: './demo.png'
 github: 'https://github.com/tanmaysankhe/CaeliScribo'

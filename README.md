@@ -2,12 +2,10 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  Personal Portfolio Website
 </h1>
 <p align="center">
   This is portfolio website template, designed by <a href="https://brittanychiang.com" target="_blank">Brittany Chiang</a>
-
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
 ## 🛠 Installation & Set Up
 

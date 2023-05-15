@@ -303,6 +303,7 @@ const StyledProject = styled.li`
   }
 `;
 
+// tech github external
 const Featured = () => {
   const data = useStaticQuery(graphql`
     {
@@ -321,8 +322,6 @@ const Featured = () => {
               }
               tech
               github
-              external
-              cta
             }
             html
           }

@@ -62,11 +62,12 @@ const Hero = () => {
 
   const one = <h1>Hey there, my name is</h1>;
   const two = <h2 className="big-heading">Tanmay Sankhe.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">I can google better than an average bear. :) </h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer with keen interst in Computer Vision. I recently graduated from the{' '}
+        I’m a software engineer with keen interst in Computer Vision and AI. I recently graduated
+        from the{' '}
         <a href="http://uta.edu" target="_blank" rel="noreferrer">
           University of Texas at Arlington
         </a>{' '}

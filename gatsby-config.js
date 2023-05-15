@@ -4,9 +4,9 @@ module.exports = {
   siteMetadata: {
     title: 'Tanmay Sankhe',
     description:
-      'Tanmay Sankhe is a software engineer based in Texas, US who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+      'Meet Tanmay Sankhe, a skilled software engineer based in Texas, USA. With a specialization in web development, AI, and a wide range of tech expertise.',
+    siteUrl: 'https://tanmaysankhe.github.io', // No trailing slash allowed!
+    image: '/.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@tnmaay',
   },
   plugins: [

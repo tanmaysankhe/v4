@@ -164,7 +164,7 @@ const StyledProject = styled.li`
     }
   }
 `;
-
+// title tech github external
 const Projects = () => {
   const data = useStaticQuery(graphql`
     query {
@@ -181,7 +181,6 @@ const Projects = () => {
               title
               tech
               github
-              external
             }
             html
           }
