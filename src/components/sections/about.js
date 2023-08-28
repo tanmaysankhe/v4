@@ -135,7 +135,7 @@ const About = () => {
     'Node.js',
     'OpenCV',
     'SQL',
-    'GO',
+    'Golang',
   ];
 
   return (

@@ -1,13 +1,13 @@
 ---
-date: '2021-11-27'
-title: 'Senior Engineer (Cloud Services)'
+date: '2021-11-1'
+title: 'Software Engineer'
 company: 'LTIMindtree'
 location: 'Mumbai, India'
-range: 'August 2019 - November 2021'
+range: 'August 2019 - October 2020'
 url: 'https://www.ltimindtree.com/'
 ---
 
-- Automated document management of 25,000 documents on SharePoint sites, improving memory efficiency by 50%
-- Collaborated and created an automated solution that optimized SharePoint site creation, streamlining the process
-- Implemented Azure web-job to monitor discrepancies of over 6,000 SharePoint sites which enabled faster response and detailed analytics for production issues resolution, reducing problem resolution time by 20%
-- Developed contact recommendation feature to improve customer experience with an average 4-star rating
+- Engineered state-of-the-art contact recommendation feature, enhancing user experience and achieved a 4-star rating.
+- Developed and integrated APIs to streamline email communication, facilitating seamless and secure exchange of information.
+- Designed and implemented a robust automation solution that optimized the management of 25,000 SharePoint documents, resulting in a substantial time savings of 30% and a remarkable increase in memory efficiency by 50%.
+- Collaborated on implementing an automated solution, optimizing SharePoint site creation and reducing the time required from 6 hours to less than 1 hour, resulting in improved efficiency.
