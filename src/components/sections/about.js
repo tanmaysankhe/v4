@@ -129,6 +129,7 @@ const About = () => {
     'Python',
     'C#',
     'Azure',
+    'AWS',
     'JavaScript (ES6+)',
     'TypeScript',
     'React',
@@ -136,6 +137,7 @@ const About = () => {
     'OpenCV',
     'SQL',
     'Golang',
+    'Kubernetes',
   ];
 
   return (
@@ -146,22 +148,29 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Tanmay, and I have a passion for developing programs that simplify life. It
-              all began in 2012 when I was first introduced to JavaScript as part of my school
-              curriculum, starting with simple static HTML pages. Since then, my love for
-              programming has only grown stronger.
+              Hey, I'm Tanmay, a passionate software developer with a knack for simplifying life
+              through code. My journey began in 2012 when I delved into JavaScript during my school
+              days, crafting simple HTML pages. Since then, my passion for coding has only deepened.
             </p>
 
             <p>
-              Fast-forward to today, and I've had the incredible opportunity to work as a Full Stack
-              Developer at{' '}
-              <a href="https://www.ltimindtree.com/" target="_blank" rel="noreferrer">
-                LTIMindtree
+              Presently, I'm a Research Assistant at{' '}
+              <a href="https://www.uta.edu/" target="_blank" rel="noreferrer">
+                UTA
               </a>
-              . To further enhance my skills and broaden my horizons, I pursued a Master's degree in
-              Computer Science at UTA.
+              , where I continually refine my skills and expertise in crafting innovative solutions.
+              Previously, I had the privilege of contributing to{' '}
+              <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
+                Microsoft
+              </a>
+              , where I further honed my craft. With over 4 years of experience, I'm dedicated to
+              leveraging technology to drive positive change. Additionally, I've earned recognition
+              for my problem-solving skills and am proud to be ranked in the top 6% worldwide on{' '}
+              <a href="https://leetcode.com/tnmaay/" target="_blank" rel="noreferrer">
+                Leetcode
+              </a>
+              .
             </p>
-
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 

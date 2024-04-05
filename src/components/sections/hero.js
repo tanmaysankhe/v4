@@ -66,8 +66,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer with keen interst in Computer Vision and AI. I recently graduated
-        from the{' '}
+        I'm a software engineer with a passion for innovation and problem-solving. I recently
+        graduated from the{' '}
         <a href="http://uta.edu" target="_blank" rel="noreferrer">
           University of Texas at Arlington
         </a>{' '}

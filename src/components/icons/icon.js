@@ -15,6 +15,7 @@ import {
   IconPlayStore,
   IconStar,
   IconTwitter,
+  IconLeetcode,
 } from '@components/icons';
 import IconGoogleScholar from './scholar';
 
@@ -34,6 +35,8 @@ const Icon = ({ name }) => {
       return <IconFork />;
     case 'GitHub':
       return <IconGitHub />;
+    case 'LeetCode':
+      return <IconLeetcode />;
     case 'Instagram':
       return <IconInstagram />;
     case 'Linkedin':

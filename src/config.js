@@ -18,6 +18,10 @@ module.exports = {
       name: 'Google Scholar',
       url: 'https://scholar.google.com/citations?user=MDs7_CAAAAAJ&hl=en',
     },
+    {
+      name: 'LeetCode',
+      url: 'https://leetcode.com/tnmaay/',
+    },
   ],
 
   navLinks: [
